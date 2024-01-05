@@ -1,0 +1,65 @@
+@media screen and (max-width: 768px ) {
+    .card1 {
+        width: 1730px;
+    }
+
+    .cardlist {
+        width: 1530px;
+    }
+
+    .card1 {
+        height: 1500px;
+    }
+
+    .card2 {
+        width: 1730px;
+    }
+
+    .card3 {
+        width: 1730px;
+    }
+
+    .card4 {
+        width: 1730px;
+    }
+
+    .card5 {
+        width: 1730px;
+    }
+
+    .text1 img {
+        padding-right: 140px;
+    }
+
+    .logo {
+        margin-left: -0,10px;
+    }
+
+    .card {
+        padding-right: 50px;
+    }
+    
+    .container aside {
+        padding-left: 125px;
+    }
+
+    .teks h2 {
+        padding-right: 300px;
+    }
+
+    .card5 {
+        margin-top: 100px;
+    }
+
+    .card-contain {
+        margin-left: 100px;
+    }
+
+    .card-contain2 {
+        margin-left: 150px;
+    }
+
+    .card-contain3 {
+        margin-left: 100px;
+    }
+}

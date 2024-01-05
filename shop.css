@@ -1,0 +1,401 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.card1 {
+    background-color: #c2dfe3;
+    height: 1100px;
+}
+
+.cardlist {
+    border-radius: 0px 0px 25px 25px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    width: 1800px;
+    height: 100px;
+    margin-left: 170px;
+}
+
+.cardlist li {
+    list-style: none;
+    padding: 60px;
+}
+
+.cardlist ul {
+    display: flex;
+}
+
+.cardlist li {
+    font-size: 20px;
+}
+
+.cardlist a {
+    text-decoration: none;
+    color: black;
+}
+
+.logo {
+    padding: 50px;
+    margin-left: 860px;
+}
+
+.logo {
+    font-size: 40px;
+}
+
+.text1 h2 {
+    font-size: 70px;
+    color: white;
+    font-family: 'Tahoma';
+    padding: 80px;
+}
+
+.tombol {
+    padding-left: 85px;
+}
+
+.tombol a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.tombol a {
+    text-decoration: none;
+    border-radius: 20px;
+    color: #c2dfe3;
+    position: relative;
+    transition: all .4s;
+    padding: 20px;
+    background-color: white;
+    margin-left: 80px;
+}
+
+.text1 img {
+    width: 430px;
+    height: 400px;
+    padding-top: 50px;
+    border-radius: 20ex 0 20ex 0;
+    padding-left: 200px;
+}
+
+.text1 {
+    display: flex;
+    padding-left: 85px;
+}
+
+.ps2 img {
+    width: 400px;
+    height: 4o0px;
+    padding-top: 70px;
+    padding-left: 80px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 45%;
+}
+
+.card2 {
+    background-color: #274374;
+    height: 400px;
+}
+
+.card2 p {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Tahoma';
+}
+
+.card2 span {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.isicard2 {
+    display: flex;
+    padding-top: 20px;
+}
+
+.isicard2 img {
+    width: 200px;
+    height: 200px;
+    padding-left: 75px;
+}
+
+.isicard2 article {
+    color: white;
+    padding-top: 80px;
+}
+
+.card3 {
+    background-color: #869fc0;
+    height: 1100px;
+    /* display: flex; */
+}
+
+.card-contain {
+    display: flex;
+    margin-left: 350px;
+}
+
+.card3 h3 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.card {
+    display: flex;
+    /* flex-direction: row; */
+    /* padding: 20px; */
+    flex-direction: column;
+    margin: 20px;
+}
+
+.card img {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.card-text {
+    width: 300px;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: #274374;
+    /* display: flex; */
+}
+
+.card-text h2 {
+    padding-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding-top: 25px;
+}
+
+.card-text p {
+    padding-left: 20px;
+    color: white;
+    font-size: 15px;
+}
+
+.card-2 {
+    display: flex;
+    flex-direction: column;
+    /* padding: 20px; */
+    margin: 20px;
+}
+
+.card-2 img {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.card-text2 {
+    width: 300px;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: #274374;
+}
+
+.card-text2 h2 {
+    padding-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding-top: 25px;
+}
+
+.card-text2 p {
+    padding-left: 20px;
+    color: white;
+    font-size: 15px;
+}
+
+.card-contain2 {
+    display: flex;
+    margin-left: 350px;
+}
+
+.card-3 {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.card-3 img {
+    height: 200px;
+    width: 300px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.card-text3 {
+    width: 300px;
+    height: 100px;
+    font-size: 20px;
+    border-radius: 0px 0px 20px 20px;
+    background-color: #274374;
+}
+
+.card-text3 h2 {
+    padding-left: 20px;
+    font-size: 20px;
+    color: white;
+    padding-top: 25px;
+}
+
+.card-text3 p {
+    padding-left: 20px;
+    color: white;
+    font-size: 15px;
+}
+
+.card-contain3 {
+    display: flex;
+    justify-content: center;
+    margin-right: 40px;
+}
+
+.card4 {
+    background-color: white;
+    height: 500px;
+    font-size: 25px;
+}
+
+.foto1 img   {
+    width: 400px;
+    height: 400px;
+    padding-top: 10px;
+}
+
+.foto1 {
+    display: flex;
+}
+
+
+.teks h2 {
+    color: black;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+.teks article {
+    text-align: center;
+}
+
+.tombol2 a {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.tombol2 a {
+    text-decoration: none;
+    border-radius: 20px;
+    color: #c2dfe3;
+    position: relative;
+    transition: all .4s;
+    padding: 20px;
+    background-color: #274374;
+}
+
+.tombol2 p {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.card5 {
+    background-color: black;
+    height: 350px;
+    font-size: 25px;
+}
+
+.text-card5 p {
+    color: #274374;
+    font-size: 40px;
+    padding-left: 55px;
+    margin: 10px;
+    padding-top: 40px;
+}
+
+.text-card5 span {
+    color: white;
+}
+
+.text-card5 article {
+    color: white;
+    padding-left: 55px;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.copy p {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.container {
+    display: flex;
+    margin-left: 20%;
+}
+
+.container img {
+    width: 400px;
+    height: 500px;
+}
+
+.isi {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.isi li {
+    list-style: none;
+}
+
+.isi h3 {
+    padding-top: 40px;
+}
+
+.isi ul {
+    padding-top: 20px;
+}
+
+i {
+    padding-left: 50px;
+}
+
+.container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+header nav li {
+    list-style: none;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 1s;
+}
+
+header nav li::after {
+    content: '';
+    width: 0%;
+    height: 5px;
+    transition: .5s;
+}
+
+header nav li:hover::after {
+    content: '';
+    width: 100%;
+    background-color: #000000;
+    border-radius: 10px;
+}   
